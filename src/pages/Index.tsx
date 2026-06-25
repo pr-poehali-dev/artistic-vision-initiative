@@ -10,7 +10,7 @@ const Index = () => {
       <nav className="fixed top-0 w-full z-50 bg-background/80 backdrop-blur-md border-b border-border">
         <div className="max-w-7xl mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
-            <div className="text-2xl font-bold tracking-tight font-display text-primary">Розовый Сад</div>
+            <div className="text-2xl font-bold tracking-tight font-display text-primary">Букетерия</div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#about" className="text-muted-foreground hover:text-foreground transition-colors">
                 О нас
@@ -231,7 +231,7 @@ const Index = () => {
               <h2 className="text-4xl font-bold mb-6 text-balance">Создаём букеты, которые запоминают</h2>
               <div className="space-y-6 text-lg text-muted-foreground">
                 <p>
-                  «Розовый Сад» — это уютная мастерская цветов, где каждый букет собирается вручную с
+                  «Букетерия» — это уютная мастерская цветов, где каждый букет собирается вручную с
                   вниманием к вашему поводу. Мы любим розы и пионы и работаем только со свежими цветами,
                   чтобы ваш подарок радовал как можно дольше.
                 </p>
@@ -255,7 +255,7 @@ const Index = () => {
               <Card className="aspect-[4/5] overflow-hidden">
                 <img
                   src="https://cdn.poehali.dev/projects/f8a59be3-0dc4-47a0-a797-5bf40ec994e9/files/c08599c0-679e-491c-b17a-9c9f322e9378.jpg"
-                  alt="Интерьер магазина Розовый Сад"
+                  alt="Интерьер магазина Букетерия"
                   className="w-full h-full object-cover"
                 />
               </Card>
@@ -289,7 +289,7 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-6">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div className="md:col-span-2">
-              <div className="text-2xl font-bold mb-4 font-display text-primary">Розовый Сад</div>
+              <div className="text-2xl font-bold mb-4 font-display text-primary">Букетерия</div>
               <p className="text-muted-foreground mb-6 max-w-md">
                 Цветочная мастерская, где каждый букет собирается вручную. Свежие розы, пионы
                 и сезонные цветы с доставкой по городу.
@@ -326,7 +326,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-border mt-12 pt-8 text-center text-muted-foreground">
-            <p>&copy; 2025 Розовый Сад. Все права защищены.</p>
+            <p>&copy; 2025 Букетерия. Все права защищены.</p>
           </div>
         </div>
       </footer>
